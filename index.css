@@ -1,0 +1,10 @@
+#editable{
+  font-family: MyCustomFont;
+  color: rgb(148, 245, 74);
+  font-size: 100px;
+}
+@font-face {
+  font-family: MyCustomFont;
+  src: url("./NeonGlowHollow-KqGp.ttf") format('truetype');
+}
+
